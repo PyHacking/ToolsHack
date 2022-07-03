@@ -18,7 +18,7 @@ print("Warning:")
 print("La prima volta che digiti la password che vuoi trasformare la ristamperà a schermo.")
 print("Mentre la seconda,terza ecc.... volta che digiterai la password la ristamperà in output. \n")
 print("GitHub:")
-print("Per avere il codice completo basta visitare nel mio account di GitHub, \"PyHacking\", la Repositories è \"MakeHash.py\". ")
+print("Per avere il codice completo basta visitare nel mio account di GitHub, \"PyHacking\", la Repositories è \"MakeHash2.py\". ")
 print("Il Link della Repositories è  \"https://github.com/PyHacking/ToolsHack \" \n")
 
 
