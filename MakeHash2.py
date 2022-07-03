@@ -1,6 +1,6 @@
 import pyfiglet
 
-Header = pyfiglet.figlet_format("\nTable Hash :)")
+Header = pyfiglet.figlet_format("\nHash Table:)")
 print(Header)
 
 #print("*     *   *****  *   *  *****     *****  *****  *****  *****  *   *    *****  *****  ****   ")
